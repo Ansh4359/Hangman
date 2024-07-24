@@ -1,5 +1,5 @@
 # Hangman
-Deployed Site - <a href="https://hangman-ten-mu.vercel.app/" target="_blank">https://hangman-ten-mu.vercel.app/</a>
+Deployed Site - <a href="https://hangman-ten-mu.vercel.app/" target="_blank">https://hangman-ten-mu.vercel.app</a>
 <br>
 
 <h2>Introduction :-</h2>
